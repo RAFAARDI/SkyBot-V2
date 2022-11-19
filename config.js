@@ -38,7 +38,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281221042577', 'Pemilik', true],
+['6281221042577', XnBoz', true],
 ['62895347198105', 'Arifzyn', true],
 ]
 global.mods = []
@@ -46,16 +46,16 @@ global.prems = []
 global.nomorbot = '6281221042577'
 global.nomorown = '6281221042577'
 global.nomorown1 = '6288287722724'
-global.nomorown2 = '6288287722724'
+global.nomorown2 = '6281221042577'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'SBT-BOT X Andre'
-global.namebot = '​᯽ SBT-BOT ッ'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐒𝐤𝐲𝐁𝗼𝐭 𝐌𝐝'
+global.author = Xyou X Aty Official'
+global.namebot = '​᯽ Xyou-Bot ッ'
+global.wm = '© C𝙧eated By Xyou'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝐒𝐤𝐲𝐁𝗼𝐭 𝑴𝒅 '
 global.watermark = wm
